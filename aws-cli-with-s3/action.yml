@@ -1,0 +1,6 @@
+name: 'AWS CLI & Helm'
+description: 'GitHub Action for AWS CLI & Helm'
+author: Rony
+runs:
+  using: docker
+  image: Dockerfile
